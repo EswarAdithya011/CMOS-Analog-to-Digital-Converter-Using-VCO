@@ -52,7 +52,7 @@ This project presents the design and implementation of a **CMOS-Based Analog-to-
 - IEEE papers on **VCO-based ADCs**  
 
 ---
-```sdjfs
+
 ### 🎯 **Contributors**  
 👤 **Eswar Adithya** – Circuit Design & Simulation  
 👤 **Sarath Kumar Suda** – Optimization & Debugging  
