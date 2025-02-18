@@ -30,7 +30,6 @@ This project presents the design and implementation of a **CMOS-Based Analog-to-
 └── Documentation  
     ├── Report  
     ├── Presentation Slides  
-    ├── Reference Research Paper   
 ```  
 
 ## 🖥 **Software & Tools Used**  
