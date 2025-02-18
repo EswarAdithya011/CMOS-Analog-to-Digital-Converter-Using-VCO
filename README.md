@@ -44,7 +44,7 @@ This project presents the design and implementation of a **CMOS-Based Analog-to-
 
 ## 🚀 **Future Enhancements**  
 - Implementing higher-resolution ADCs with **multi-bit quantization**.  
-- Exploring **lower technology nodes** (45nm, 28nm) for enhanced performance.  
+- Exploring **lower technology nodes(FinFET)** (18nm) for enhanced performance.  
 - Optimizing VCO design for improved **linearity and phase noise reduction**.  
 
 ## 📚 **References**  
