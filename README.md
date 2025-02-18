@@ -35,8 +35,7 @@ This project presents the design and implementation of a **CMOS-Based Analog-to-
 
 ## 🖥 **Software & Tools Used**  
 - **Cadence Virtuoso** – Schematic design & simulation  
-- **LTSpice/Xilinx Vivado (optional)** – Additional circuit validation  
-- **MATLAB/Python (optional)** – Data analysis and visualization  
+- **LTSpice/Xilinx Vivado (optional)** – Additional circuit validation   
 
 ## 📊 **Simulation Results**  
 - **VCO Output**: Demonstrates frequency variation with input voltage.  
